@@ -1,4 +1,4 @@
-# AI-Plays-Brick-Breaker
+# Machine Learning Undergrad Group 1 - AI-Plays-Brick-Breaker
 
 This project utilizes neural networks with NEAT to train and excel at the classic Atari game 'Breakout', also known as Brick Breaker.
 
